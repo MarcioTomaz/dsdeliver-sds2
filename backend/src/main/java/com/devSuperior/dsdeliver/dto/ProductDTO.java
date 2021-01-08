@@ -1,8 +1,10 @@
 package com.devSuperior.dsdeliver.dto;
 
+import java.io.Serializable;
+
 import com.devSuperior.dsdeliver.entities.Product;
 
-public class ProductDTO {
+public class ProductDTO implements Serializable {
 	
 	private static final long serialVersionUID = 1L;
 
