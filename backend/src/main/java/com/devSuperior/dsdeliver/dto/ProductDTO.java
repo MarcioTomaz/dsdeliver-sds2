@@ -49,7 +49,7 @@ public class ProductDTO implements Serializable {
 		this.name = name;
 	}
 
-	public double getPrice() {
+	public Double getPrice() {
 		return price;
 	}
 
