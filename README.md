@@ -1,6 +1,7 @@
 # dsdeliver-sds2
 
 **Projeto Semana DevSuperior 2.0**
+**Link para a aplicação : https://sds2-marcio-tomaz.netlify.app/orders**
 
 As tecnologias utilizadas foram:
 
